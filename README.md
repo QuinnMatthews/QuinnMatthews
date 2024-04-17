@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/Homepage-green?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
-<img  src="https://komarev.com/ghpvc/?username=QuinnMatthews&style=flat-square&color=blue" alt=""/>
 
 ### 📈 Stats from Wakatime
 
@@ -27,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://hit.yhype.me/github/profile?user_id=55562296)
