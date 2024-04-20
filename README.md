@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/quinn-matthews/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="qmatthews.net">
+  <a href="https://qmatthews.net">
     <img src="https://img.shields.io/badge/Homepage-green?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
