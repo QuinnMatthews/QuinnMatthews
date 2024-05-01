@@ -9,6 +9,7 @@
 </div>
 
 ### 📈 Stats from Wakatime
+<a href="https://wakatime.com/@b3ed37fd-6c40-4b01-aac8-5d4704b5256d"><img src="https://wakatime.com/badge/user/b3ed37fd-6c40-4b01-aac8-5d4704b5256d.svg?style=flat-square" alt="Total time coded since Feb 19 2022" /></a>
 
 <img src="https://wakatime.com/share/@b3ed37fd-6c40-4b01-aac8-5d4704b5256d/f7c539b4-492d-4f5a-a191-0077f670380d.svg"></img>
 <!--
