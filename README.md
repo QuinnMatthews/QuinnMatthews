@@ -1,45 +1,28 @@
-# 👋 Hi there, I'm Quinn Matthews!
-
-<span>
-  <a href="https://www.linkedin.com/in/quinn-matthews/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div align="center">
+  <br/>
   <a href="https://qmatthews.net">
-    <img src="https://img.shields.io/badge/Homepage-green?style=for-the-badge" alt="Website Badge"/>
+    <img src="https://qmatthews.net/assets/img/readme-hero.svg" alt="Quinn Matthews — Software Developer" />
   </a>
-</span>
----
-
-## 🚀 About Me
-- 🎓 **Student**, **full-stack software developer**, and **systems engineer**
-- 💻 Passionate about **devops**, **cloud infrastructure**, **automation**, and **security**
-- 🌱 Currently learning: **AI application architecture models**
-- 🔧 Working on: **AI financial asset advisor**
-- 📫 How to reach me: **me@qmatthews.net**
-  
----
-
-## 🛠 Tech Stack  
-- 📜 **Languages:** C#, Javascript, and C/C++
-- ⚙️**Frameworks & Libraries:** .NET and Node.js
-- 🌐**Platforms and Tools:** Cloudflare, Azure, and Docker
+  <br/>
+</div>
 
 ---
 
-## 📈 Development Activity (Wakatime)
-<i>Note: Unfortunately, doesn't capture work done in some environments where pushing analytics isn't possible</i>  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_IOS%2FNX--OS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365_Security-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-[![Total Time Coded](https://wakatime.com/badge/user/b3ed37fd-6c40-4b01-aac8-5d4704b5256d.svg?style=flat-square)](https://wakatime.com/@b3ed37fd-6c40-4b01-aac8-5d4704b5256d)  
-*Since Feb 2022*
-
-### Coding History
-<img src="https://wakatime.com/share/@b3ed37fd-6c40-4b01-aac8-5d4704b5256d/c69c1431-b3d6-45e9-910a-9a5af2e8c0a1.svg" alt="Wakatime History">
-
-### Languages
-<img src="https://wakatime.com/share/@b3ed37fd-6c40-4b01-aac8-5d4704b5256d/3efb8233-4914-47ae-98a5-338f1aa5e45b.svg" alt="Wakatime Languages">
-
----
-
-⭐ *Thanks for stopping by! Feel free to check out my repositories or connect with me on LinkedIn.*
-
-![](https://hit.yhype.me/github/profile?user_id=55562296)
