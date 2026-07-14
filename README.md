@@ -22,7 +22,10 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_IOS%2FNX--OS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365_Security-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
+<span>
+<img src="./comptia-security-ce-certification.png" alt="Security+" width="120" style="display:block; margin:auto;">
+<img src="./comptia-secai-certification.png" alt="SecAI+" width="120" >
+</span>
